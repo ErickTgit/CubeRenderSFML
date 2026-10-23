@@ -4,6 +4,7 @@
 #include <sfml/Graphics.hpp>
 #include <vector>
 #include <array>
+#include <cmath>
 
 #pragma once
 
