@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# CubeRenderSFML
-Cube in SFML
-=======
 # CMake SFML Project Template
 
 This repository template should allow for a fast and hassle-free kick start of your next SFML project using CMake.
@@ -119,4 +115,3 @@ Here are some useful resources if you want to learn more about CMake:
 ## License
 
 The source code is dual licensed under Public Domain and MIT -- choose whichever you prefer.
->>>>>>> 78ceb77c67db7d5abd46cfc8c4a0dbbd2ad51b9f
